@@ -1,0 +1,9 @@
+streamlit>=1.40
+psycopg[binary]>=3.2
+python-dotenv>=1.0
+requests>=2.32
+qdrant-client>=1.12
+yfinance>=0.2.50
+feedparser>=6.0
+pandas>=2.2
+plotly>=5.24
